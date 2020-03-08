@@ -1,0 +1,90 @@
+body {
+	background-image: url(https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2018/11/05/draft/5490177.jpg&x=0&y=0&sw=0&sh=0&sl=W&fw=750);
+	color: #6B615F;
+	font-family: Bookman Old Style;
+	font-size: 13px;
+	line-height: 30px;
+	letter-spacing: 1.5px;
+	text-align: justify;
+	text-align: center;
+}
+
+
+
+
+h1 {
+	font-size: 40px;
+}
+
+
+
+
+h2 {
+	letter-spacing: 1px;
+	font-size: 25px;
+	text-decoration: none;
+}
+
+
+
+
+p{
+	font-size: 18px;
+}
+
+
+
+
+a{
+	text-decoration: none;
+	color: #6A5A3D;
+	font-size: 16px;
+}
+
+
+
+
+a:hover {
+	color: #89533A;
+}
+
+
+
+
+div {
+	margin-top: 10px;
+	margin-left: 300px;
+	margin-right: 300px;
+	margin-bottom: 30px;
+	box-shadow: 5px 5px 20px #665957;
+	border-radius: 35px;
+	background-color: #F0D5BB;
+	width: 500px;
+	display: block;
+	padding: 50px;
+	width: 600px;
+}
+
+
+
+img {
+	width: 300px;
+	height: 300px;
+	border-radius: 250px;
+	margin-left: 150px;
+	margin-right:150px;
+	margin-top: 35px;
+	margin-bottom: 50px; 
+	display: ;
+}
+
+
+
+
+.btn-blue {
+	background-color: #543B23;
+	color: #9A5D41;
+	padding: 5px 20px;
+	border-radius: 15px;
+}
+
